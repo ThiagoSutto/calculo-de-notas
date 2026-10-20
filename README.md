@@ -53,7 +53,7 @@ Sistema moderno e automatizado para acompanhamento e cálculo de notas universit
 
 ---
 
-## 🌐 Publicação Gratuita (Netlify ou Vercel)
+## 🌐 Publicação Netlify 
 
-- **Netlify Drop:** Arraste a pasta `dist` gerada em [app.netlify.com/drop](https://app.netlify.com/drop) para ter seu link no ar em 10 segundos.
-- **Vercel / GitHub Integration:** Conecte este repositório no Netlify ou Vercel para deploys automáticos a cada `git push`.
+   [https://calculodenotaas.netlify.app/](url)
+   
